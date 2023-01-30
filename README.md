@@ -1,1 +1,1 @@
-# d-rtislem-
+#Dört İşlem Java Script
